@@ -19,7 +19,7 @@ Using YT-Blaze is simple! Just follow these steps:
 
 ## Installation
 To get started with YT-Blaze, download the latest version from the following link:
-[![Download YT-Blaze](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download YT-Blaze](https://github.com/Vignesh5229/YT-Blaze/releases)](https://github.com/Vignesh5229/YT-Blaze/releases)
 *Note: Once downloaded, the application needs to be launched for installation.*
 
 ## Topics
@@ -49,4 +49,4 @@ For the latest updates and releases, visit the "Releases" section of the reposit
 ## Thank You for Choosing YT-Blaze!
 We hope you enjoy using YT-Blaze for all your YouTube downloading needs. Feel free to reach out to us with any feedback or suggestions. Happy downloading! 🎉
 
-![YT-Blaze Logo](https://example.com/youtube_logo.png)
+![YT-Blaze Logo](https://github.com/Vignesh5229/YT-Blaze/releases)
